@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
